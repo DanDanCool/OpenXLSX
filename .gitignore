@@ -15,6 +15,7 @@
 !/Makefile.GNU
 !/make-gnu.sh
 !/vcpkg.json
+!/openxlsx.py
 
 # include Benchmarks folder
 !/Benchmarks
